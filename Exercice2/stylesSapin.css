@@ -1,0 +1,62 @@
+.sapin {
+    color: mediumseagreen;
+    font-weight: bold;
+    font-size: 1vw;
+}
+pre {
+    color: lightgreen;
+    font-style: normal;
+}
+.etoile {
+    color: gold;
+    font-size: 1vw;
+}
+#etoileHaut {
+    font-size: 2vw;
+    position: relative;
+    bottom: -.4em; right: .15em;
+}
+.boule1 {
+    color: red;
+    font-size: 1vw;
+}
+.deco1 {
+    color: lightgoldenrodyellow;
+}
+.deco2 {
+    color: orange;
+}
+.deco3 {
+    color: navajowhite;
+}
+.boule2 {
+    color: goldenrod;
+    font-size: 0.8vw;
+}
+.tronc {
+    color: saddlebrown;
+    font-weight: bold;
+    font-size: 1vw;
+}
+.plat {
+    font-size: 1vw;
+    position: relative;
+    top: -1em;
+}
+#bandeau {
+    font-size: 2vw;
+    background-color: black;
+    color: gold;
+    border: none;
+    width: 99%;
+}
+.conteneur {
+    align-self: center ;
+    width: 30%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
